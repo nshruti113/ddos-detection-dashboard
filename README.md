@@ -118,29 +118,6 @@ ddos-detection-dashboard/
  README.md
 ```
 
-##  What I Learned
-
-- Real-time data processing at scale using Go's concurrency primitives
-- Statistical anomaly detection and entropy analysis
-- Network security fundamentals (OWASP Top 10, attack vectors)
-- Redis optimization techniques (pipelining, HyperLogLog)
-- WebSocket implementation for live dashboards
-- Production-grade error handling and observability
-
-##  Future Enhancements
-
-- [ ] Machine learning models (Isolation Forest for anomaly detection)
-- [ ] Geographic attack visualization
-- [ ] Automated mitigation actions (IP blocking, rate limiting)
-- [ ] Integration with firewall APIs
-- [ ] Kubernetes deployment manifests
-- [ ] Prometheus metrics export
-- [ ] Historical attack analysis and reporting
-
-##  Blog Post
-
-Read the detailed technical write-up in the [docs](docs/) folder.
-
 ##  Contributing
 
 This is a portfolio project, but suggestions and feedback are welcome!
