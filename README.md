@@ -2,7 +2,6 @@
 
 > **A real-time distributed denial-of-service (DDoS) attack detection system built with Go, Redis, and advanced statistical analysis.**
 
-Built as part of my application for **Cloudflare Security Engineer Intern (Summer 2026)**.
 
 [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![Redis](https://img.shields.io/badge/Redis-7.x-DC382D?style=flat&logo=redis)](https://redis.io/)
