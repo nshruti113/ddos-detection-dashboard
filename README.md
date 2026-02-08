@@ -122,7 +122,4 @@ ddos-detection-dashboard/
 
 This is a portfolio project, but suggestions and feedback are welcome!
 
-##  License
-
-MIT License
 
